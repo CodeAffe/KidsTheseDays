@@ -14,8 +14,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 | Initial         | Replacement     |
 |-----------------|-----------------|
-| Millenials      | Kids these days |
-| Millenial Adult | Spoiled Brat    |
+| Millennials      | Kids these days |
+| Millennial Adult | Spoiled Brat    |
 |                 |                 |
 
 ## Authors
