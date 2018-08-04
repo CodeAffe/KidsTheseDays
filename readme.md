@@ -1,6 +1,6 @@
 # Kids these days  
 
-Kids these days (KTD) is designed to allow for a better understanding of news articles. Many articles talk about `Millenials` and KTD aims to make these articles more clear.
+Kids these days (KTD) is designed to allow for a better understanding of news articles. Many articles talk about `Millennials` and KTD aims to make these articles more clear.
 
 ## Getting Started
 
