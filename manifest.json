@@ -1,0 +1,17 @@
+{
+    "name":                 "Millenials to Kids these days",
+    "description":          "Replace 'millenials' with 'kids these days'",
+    "version":              "1.0",
+    "author":               "David Postlethwaite",
+    "manifest_version":     2,
+    "browser_action":       {
+        "default_popup":    "popup.html",
+        "default_icon":     "kidsthesedays_128.png"
+    },
+    "content_scripts": [{
+        "matches":          ["*://*/*"],
+        "all_frames":       true,
+        "js":               ["content.js"],
+        "run_at":           "document_end"
+    }]
+}
